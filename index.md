@@ -4,9 +4,11 @@
 
 <img src="assets/img.jpg" alt="drawing" width="200"/>
 
-## Research Interest
+I am a third year PhD student at Indiana University
 
-I  am  focused  on  systems  research,  specifically  Operating  Systems,  Cloud, and Virtualization. I intend on creating and working on such systems in industry after finishing my degree.
+## Research Interests
+
+My current research focuses are in various segments of systems research, specifically  Operating Systems, Cloud, and Virtualization. I intend on creating and working on such systems in industry after finishing my degree.
 
 ## Publications
 
