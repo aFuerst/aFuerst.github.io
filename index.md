@@ -6,6 +6,8 @@
 
 I am a third year PhD student at Indiana University
 
+[My Resume](./assets/resume.pdf)
+
 ## Research Interests
 
 My current research focuses are in various segments of systems research, specifically  Operating Systems, Cloud, and Virtualization. I intend on creating and working on such systems in industry after finishing my degree.
