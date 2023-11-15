@@ -4,14 +4,16 @@
 
 <img src="assets/img.jpg" alt="drawing" width="200"/>
 
-I am a fourth year PhD student at Indiana University with interests in everything CS and engineering.
-Outside of that, I hike, go biking, bake everything iamginable, and read books on history.
+**I expect to graduate in May 2024 and am currently looking for a job, targeting post-doc research positions or industry work.**
+
+I am a fifth year PhD student at Indiana University with interests in everything CS and engineering.
+Outside of that, I hike, go biking, bake everything imaginable, and read books on history.
 
 [My Resume](./assets/resume.pdf)
 
 ## Research Interests
 
-My current research focuses are in various segments of systems research, specifically  Operating Systems, Cloud, and Virtualization. I intend on creating and working on such systems in industry after finishing my degree.
+My current research focuses are in various segments of systems research, especially Serverless, Cloud, and Virtualization. I intend on creating and working on such systems in industry after finishing my degree.
 
 ## Publications
 
