@@ -7,13 +7,16 @@
 I am a fourth year PhD student at Indiana University with interests in everything CS and engineering.
 Outside of that, I hike, go biking, bake everything iamginable, and read books on history.
 
-[My Resume](./assets/resume.pdf)
+[My Resume](./assets/cv.pdf)
 
 ## Research Interests
 
 My current research focuses are in various segments of systems research, specifically  Operating Systems, Cloud, and Virtualization. I intend on creating and working on such systems in industry after finishing my degree.
 
 ## Publications
+
+**Ilúvatar: A Fast Control Plane for Serverless Computing**
+Alexander Fuerst, Abdul Rehman, and Prateek Sharma. HPDC 2023
 
 **Locality-aware Load-Balancing For Serverless Clusters**.
 Alexander Fuerst, and Prateek Sharma. HPDC 2022.
@@ -33,7 +36,7 @@ Alexander Fuerst, Ahmed Ali-Eldin, Prashant Shenoy, and Prateek Sharma. HPDC 202
 * [Slides](./assets/faas-lb-presentation.pptx)
 * [Video](https://youtu.be/nEB45\_dtx6U)
 
-* Memory-Harvesting VMs in Cloud Platforms}
+* Memory-Harvesting VMs in Cloud Platforms
 * [Slides](https://afuerst.github.io/assets/5B_0262_Fuerst.pptx})
 * [Video](https://www.youtube.com/watch?v=fvPAzienOTQ)
 
