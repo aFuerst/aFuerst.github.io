@@ -9,7 +9,7 @@
 I am a fifth year PhD student at Indiana University with interests in everything CS and engineering.
 Outside of that, I hike, go biking, bake everything imaginable, and read books on history.
 
-[My Resume](./assets/cv.pdf)
+[My CV](./assets/cv.pdf), [Github profile](https://github.com/aFuerst/), and [Google Scholar](./assets/cv.pdf).
 
 ## Research Interests
 
