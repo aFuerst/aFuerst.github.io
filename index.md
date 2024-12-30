@@ -4,18 +4,19 @@
 
 <img src="assets/img.jpg" alt="drawing" width="200"/>
 
-**I expect to graduate in May 2024 and am currently looking for a job, targeting post-doc research positions or industry work.**
-
-I am a fifth year PhD student at Indiana University with interests in everything CS and engineering.
+I am a recently graduated Computer Engineering PhD from Indiana University, with interests across the whole computing system stack.
 Outside of that, I hike, go biking, bake everything imaginable, and read books on history.
 
-[My CV](./assets/cv.pdf), [Github profile](https://github.com/aFuerst/), and [Google Scholar](./assets/cv.pdf).
+[My CV](./assets/cv.pdf), [Github profile](https://github.com/aFuerst/), and [Google Scholar](https://scholar.google.com/citations?user=zvkH4_UAAAAJ).
 
 ## Research Interests
 
-My current research focuses are in various segments of systems research, especially Serverless, Cloud, and Virtualization. I intend on creating and working on such systems in industry after finishing my degree.
+My current research focuses are in various segments of systems research, especially Serverless, Cloud, and Virtualization. I intend on creating and working on such systems in industry now that I have graduated, and am actively open to new positions.
 
 ## Publications
+
+_Dissertation:_ **Serverless Control Planes for Orchestration of Cloud Resources**
+[Alexander  Fuerst. 2024.](./assets/dissertation.pdf)
 
 **Ilúvatar: A Fast Control Plane for Serverless Computing**
 [Alexander  Fuerst,  Abdul Rehman,  and  Prateek  Sharma. HPDC 2023.](./assets/Il%C3%BAvatar.pdf)
@@ -34,8 +35,11 @@ My current research focuses are in various segments of systems research, especia
 
 ## Presentations
 
+* _Dissertation:_ **Serverless Control Planes for Orchestration of Cloud Resources**
+* [Slides](./assets/defense-presentation.pptx)
+
 * **Ilúvatar: A Fast Control Plane for Serverless Computing**
-* [Slides](./assets/iluvatar-presentationpptx)
+* [Slides](./assets/iluvatar-presentation.pptx)
 
 * **Locality-aware Load-Balancing For Serverless Clusters**
 * [Slides](./assets/faas-lb-presentation.pptx)
