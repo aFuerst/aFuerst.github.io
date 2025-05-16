@@ -18,6 +18,9 @@ My current research focuses are in various segments of systems research, especia
 _Dissertation:_ **Serverless Control Planes for Orchestration of Cloud Resources**
 [Alexander  Fuerst. 2024.](./assets/dissertation.pdf)
 
+**Accountable Carbon Footprints and Energy Profiling For Serverless Functions**
+[Prateek  Sharma and Alexander  Fuerst. SOCC 2024.](./assets/faas-energy.pdf)
+
 **Ilúvatar: A Fast Control Plane for Serverless Computing**
 [Alexander  Fuerst,  Abdul Rehman,  and  Prateek  Sharma. HPDC 2023.](./assets/Il%C3%BAvatar.pdf)
 
